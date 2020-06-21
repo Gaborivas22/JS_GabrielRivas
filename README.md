@@ -1,2 +1,2 @@
 # javascriptTareas
-Repositorio de tareas js
+Repositorio de tareas js de Gabriel Rivas Maldonado
