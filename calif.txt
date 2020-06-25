@@ -1,2 +1,6 @@
 - Práctica 2
 10
+
+- Práctica 12
+4.6
+No funciona el juego, casi no hay nada de juego, se ve la tabla toda junta, no hay comentarios, se pueden simplificar las funciones de girar.
